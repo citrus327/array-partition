@@ -1,6 +1,6 @@
 {
   "name": "@citrus327/array-partition",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "partition an Array into two.",
   "publishConfig": {
     "access": "public"
